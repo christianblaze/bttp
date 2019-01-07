@@ -1,4 +1,4 @@
-# BTTP - Memo
+# BTTP
 Blockchain Text Transfer Protocol
 
 HTTP 418 (RFC 2324) paved the way for our modern internet.  Before HTTP was developed and adopted, there was no simple way for internet readers and publishers to easily share information online.  In a similar fashion, there is currently no easy way for users to gain access to the data stored across multiple blockchains, whether it be Bitcoin, or any of the numerous other blockchains that continue to be created.  For this reason, it may be helpful to develop a standard that can be used to serve and gain access to the information locked within the multiple blockchains that exist and the ones still to come.
